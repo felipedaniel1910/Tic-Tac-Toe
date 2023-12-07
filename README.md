@@ -21,8 +21,8 @@ To get started with the Tic-Tac-Toe game:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/felipedaniel1910/python-tic-tac-toe.git
-    cd python-tic-tac-toe
+    git clone https://github.com/felipedaniel1910/Tic-Tac-Toe.git
+    cd Tic-Tac-Toe
     ```
 
 2. Run the game:
