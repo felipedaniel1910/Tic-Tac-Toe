@@ -42,7 +42,7 @@ To get started with the Tic-Tac-Toe game:
 
 ## Contributing
 
-Contributions to improve the game, add features, or fix issues are welcome! If you'd like to contribute, please follow the steps outlined in the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions to improve the game, add features, or fix issues are welcome! 
 
 <br/>
 
